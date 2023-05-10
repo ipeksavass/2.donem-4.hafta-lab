@@ -36,9 +36,3 @@ void fun(int *array,int leftindex,int rightindex){
 	}
 	
 }
-
-
-
-
-
-
